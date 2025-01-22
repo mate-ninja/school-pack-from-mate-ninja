@@ -1,0 +1,24 @@
+{
+  "name": "school-pack-from-mate-ninja",
+  "displayName": "school pack from mate_ninja",
+  "description": "A few selected extensions for quick sync across many often wiped school computers form my school",
+  "icon": "icon/VSCicon.png",
+  "version": "0.1.0",
+  "publisher": "mateninja",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "bernardopires.cursor-settings",
+    "superant.mc-dp-icons",
+    "bceskavich.theme-dracula-at-night",
+    "ritwickdey.liveserver",
+    "ms-vscode.notepadplusplus-keybindings",
+    "devsense.phptools-vscode",
+    "ms-vsliveshare.vsliveshare",
+    "slevesque.vscode-zipexplorer"
+  ]
+}
