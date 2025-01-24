@@ -1,2 +1,1 @@
-It's not recommended for sharks, they tend to give you 1 stars. One even tried 😭
-![Shark](icon/Campaign_Icon-Cursed_Pirates.png)
+> Due to a **lot** of requests, the extension pack is now avaliable for ***sharks*** and even **monkeys**!

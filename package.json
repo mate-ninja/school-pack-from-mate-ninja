@@ -3,8 +3,12 @@
   "displayName": "school pack from mate_ninja",
   "description": "A few selected extensions for quick sync across many often wiped school computers from my school",
   "icon": "icon/VSCicon.png",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "publisher": "mateninja",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mate-ninja/school-pack-from-mate-ninja.git"
+  },
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -19,6 +23,10 @@
     "ms-vscode.notepadplusplus-keybindings",
     "devsense.phptools-vscode",
     "ms-vsliveshare.vsliveshare",
-    "slevesque.vscode-zipexplorer"
+    "slevesque.vscode-zipexplorer",
+    "brandonkirbyson.vscode-animations",
+    "mechatroner.rainbow-csv",
+    "be5invis.vscode-custom-css",
+    "mateninja.mate-ninja-s-html-structure-maker"
   ]
 }
